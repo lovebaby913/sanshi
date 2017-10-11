@@ -1,2 +1,2 @@
-git is free software.
-git is free software distributed under the GPL.
+my name is sanshi.
+sanshi is a good boy.
